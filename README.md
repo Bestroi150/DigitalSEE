@@ -11,7 +11,7 @@ Balkan History – a sphere to which our group belongs.</li>
 available in custom <b>XML</b> and <b>JSON</b> files.</li>
 
 
-<b>RESEARCH UNIVERSITY</b>: University of Sofia
-<b>Research group name</b>: Digital Humanities. ICT Applications for History and Language
-<b>Main research area of the group</b>: Digital Humanities
-<b>Leading researcher</b>: Associate Professor Dr. Maria Baramova
+<p><b>RESEARCH UNIVERSITY</b>: University of Sofia</p>
+<p><b>Research group name</b>: Digital Humanities. ICT Applications for History and Language</p>
+<p><b>Main research area of the group</b>: Digital Humanities</p>
+<p><b>Leading researcher</b>: Associate Professor Dr. Maria Baramova</p>
