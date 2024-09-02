@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Church of Saint Sophia </nameSource>
+    <nameContemporary>St Sofia Basilica</nameContemporary>
+    <description>John Galt describes the church of Saint Sophia as the only ancient building in Sofia. He mentions that it was converted to a mosque and used as a gunpowder magazine. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.69657</latitude>
+        <longitude>23.33126</longitude>
+    </geographicCoordinates>
+    <geonamesLink/>
+    <pleiadesLink/>
+    <date>1811</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>high</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="religious">
+            <item>church</item>
+            <item>mosque</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>John Galt</authorPublication>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="eng">eng</originalLanguage>
+    <publicationLanguage xml:lang="eng">eng</publicationLanguage>
+    <sourceInformation>Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 340.</sourceInformation>
+    <annotation>John Galt traveled from Istanbul to Vidin and back to Istanbul.</annotation>
+    <keywords>Sofia, St Sofia basilica, church</keywords>
+    <sourceContent>The only ancient building in the town, is the church of Saint Sophia, a considerable fabric, long since converted into a mosch. It was used as the powder magazine. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839</viaf>
+    <iiif/>
+</siteObject>

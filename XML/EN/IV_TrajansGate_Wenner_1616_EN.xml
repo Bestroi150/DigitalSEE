@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Derbent/ Temir-capi</nameSource>
+    <nameContemporary>Trajan's Gate</nameContemporary>
+    <description>Adam Wenner mentions ruins of an old castle (Schloss)</description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>22.07.1616</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>high</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="fortifications">
+            <item>fortress</item>
+        </list>
+    </desc>
+    <desc type="category">
+        <list type="linear">
+            <item>gate</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="deu">deu</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Wenner von Crailßheim, Adam. Ein gantz new Reysebuch von Prag auß biß gen Constantinopel (etc.). Nuerenberg, 1622, p. 34</sourceInformation>
+    <annotation>The author describes the travel of a Habsburg legacy from Prague to Istanbul in 1616-1617. </annotation>
+    <keywords>Gate of Trajan, Arch, Fortification</keywords>
+    <sourceContent>Darob zu Ende vor seiten wie noch die Rudera anzeigen ein beftes Schloss zur defension der Feind erbawet gewesen, welches die Turcten Derbent: das ist dess engen Pass und auch Temir-capi, eisene Thor nennen. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/305119880/#Wenner,_Adam</viaf>
+    <iiif/>
+</siteObject>

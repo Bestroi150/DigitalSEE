@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Philippopel </nameSource>
+    <nameContemporary>Пловдив </nameContemporary>
+    <description>Герхард Корнелиус фон Дриш наблюдава Пловдив от разстояние поради епидемия в града. Той описва топографията на селището и следите от крепостни стени, които е успял да види. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.15151</latitude>
+        <longitude>24.75201</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/728193/plovdiv.html</geonamesLink>
+    <pleiadesLink/>
+    <date>08.07.1718</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>medium</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="fortifications">
+            <item>fortress</item>
+        </list>
+    </desc>
+    <desc type="category">
+        <list type="settlements">
+            <item>town</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Gerhard Cornelius von Driesch</authorPublication>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="lat">lat</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 116.</sourceInformation>
+    <annotation/>
+    <keywords>Пловдив, Филипопол, топография, крепостни стени </keywords>
+    <sourceContent>daß die Stadt zwar auf zwey Spitzen stehet, welche aber nur einen einigen Berg ausmachen, da der andere vor Zeiten wol auch mit dergleichen Ringmauern umgehen gewesen, die aber jetzt mehrentheils zerfallen sind.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758</viaf>
+    <iiif/>
+</siteObject>
