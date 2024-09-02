@@ -1,0 +1,1770 @@
+[
+    {
+        "filename": "IV_Driesch_PlovdivWalls_1718_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Philippopel",
+                "nameContemporary": "Пловдив",
+                "description": "Герхард Корнелиус фон Дриш наблюдава Пловдив от разстояние поради епидемия в града. Той описва топографията на селището и следите от крепостни стени, които е успял да види.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.15151",
+                    "longitude": "24.75201"
+                },
+                "geonamesLink": "https://www.geonames.org/728193/plovdiv.html",
+                "pleiadesLink": null,
+                "date": "08.07.1718",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "fortifications",
+                            "item": "fortress"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "settlements",
+                            "item": "town"
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Gerhard Cornelius von Driesch",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 116.",
+                "annotation": null,
+                "keywords": "Пловдив, Филипопол, топография, крепостни стени",
+                "sourceContent": "daß die Stadt zwar auf zwey Spitzen stehet, welche aber nur einen einigen Berg ausmachen, da der andere vor Zeiten wol auch mit dergleichen Ringmauern umgehen gewesen, die aber jetzt mehrentheils zerfallen sind.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Driesch_SophiaWalls_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Sophia",
+                "nameContemporary": "Sofia",
+                "description": "Герхард Корнелиус Дриш споменава останки от замък (Schloß) северно от града, от лявата страна на града, когато се идва от Ниш.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.70725",
+                    "longitude": "23.32167"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "30.07.1718",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "fortifications",
+                        "item": "fortress"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Gerhard Cornelius von Driesch",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 89.",
+                "annotation": null,
+                "keywords": "София, крепостни стени, късноантично укрепление",
+                "sourceContent": "worzu sie noch setzen, daß der  Bruder nicht weit von hier ein Schloß gehabt, wovon sie einem noch zur linken Hand, wann man von Nissa kommt, am Ende der Stadt die Mauern weisen.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Driesch_StSophia_1718_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Kirche zu Sophia",
+                "nameContemporary": "St Sofia Basilica",
+                "description": "Gerhard Cornelius von Driesch briefli describes the Basilica of St Sofia",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33127"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "30.06.1718",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "religious",
+                        "item": [
+                            "church",
+                            "mosque"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Gerhard Cornelius von Driesch",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 100.",
+                "annotation": null,
+                "keywords": "Sofia, St Sofia basilica, church",
+                "sourceContent": "Es zeiget so wol die Art des Gebäues, als dessen Gestalt, Eintheilung, Schiff, Sacristey und anders, daß dieselbige ehmaln denen Christen zu ihrem Gottesdienst gedienet habe; jedoch ist nicht zu läugnen, daß der Thurn und daran liegende Gewölbe von den Türken aufgebauet worden.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Emona_Newberie_1582_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Emonna",
+                "nameContemporary": "Emona",
+                "description": "John Newberie mentions a castle at Emona",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.70127",
+                    "longitude": "27.89989"
+                },
+                "geonamesLink": "https://www.geonames.org/731653/emona.html",
+                "pleiadesLink": null,
+                "date": "12.04.1582",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "fortifications",
+                        "item": "fortress"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Newberie",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.",
+                "annotation": "John Newberie traveled by sea from Constantinople to the Danube delta and spent a night in Emona.",
+                "keywords": "Emona, Fortification, Fortress",
+                "sourceContent": "The twelfth day we set saile from Sissopoli, and the same night came to an anchor under a Cape of Land, where is a Casal called Emonna.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Kaliakra_Newberie_1582_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Caliacca",
+                "nameContemporary": "Kaliakra",
+                "description": "John Newberie mentions the fortress on the Kaliakra cape",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.36221",
+                    "longitude": "28.46545"
+                },
+                "geonamesLink": "https://www.geonames.org/730765/kaliakra.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/217013/?searchterm=Kaliakra*",
+                "date": "14.04.1582",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "fortifications",
+                        "item": "fortress"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Newberie",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.",
+                "annotation": "John Newberie traveled by sea from Constantinople to the Danube delta and he passed near the Kaliakra fortress.",
+                "keywords": "Kaliakra, Fortress",
+                "sourceContent": "The fourteenth day in the morning we passed by a Castle called Caliacca, which standeth upon the Cape of a Land, and hath to the Eastward two small Pillars, and neere unto them a great stone much like a man.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_NicopolisadIstrum_Macmichael_1818_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "No name",
+                "nameContemporary": "Nicopolis ad Istrum",
+                "description": "William Macmichael mentions tumuli and ruins of an ancient town.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.21805",
+                    "longitude": "25.61224"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": "https://pleiades.stoa.org/places/216895/nicopolis-ad-istrum",
+                "date": "26.01.1818",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "settlements",
+                        "item": "town"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "Roman Age",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 136.",
+                "annotation": "William Macmichael traveled from Moscow to Istanbul.",
+                "keywords": "Nicopolis ad Istrum, ruins, roman town",
+                "sourceContent": "At the distance of three hours, having crossed a small plain, covered with more than  fifty barrows, on the right of which were observable the walls of a ruined town;",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Sozopol_Coins_Neale_1806_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Sizeboli, ancient Apollonia",
+                "nameContemporary": "Sozopol",
+                "description": "Adam Neale bought some ancient coins in Sozopol.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.42455",
+                    "longitude": "27.69512"
+                },
+                "geonamesLink": "https://www.geonames.org/726963/sozopol.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216706/apollonia-pontica/?searchterm=Apollonia%20Pontica*",
+                "date": "1806",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "other",
+                        "item": "coins"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Adam Neale",
+                "ageContemporary": "iron_age",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 262.",
+                "annotation": "Adam Neale traveled from Istanbul to Varna and Bucharest.",
+                "keywords": "Sozopol, Apollonia, ancient coins",
+                "sourceContent": "In the afternoon we reached the village of Sizeboli, the ancient Apollonia, where we procured some fried eggs, bread, and Haemean honey, for a few aspers. A Greek produced for sale, ancient coins in a leathern bag, from which we selected a few of Istropolis, Apollonia, and Byzantium. Those of Istropolis have been before mentioned. That of Apollonia is of brass, and represents three women with joined hands dancing around a flaming cauldron, performing the Circean orgies of Hecate the infernal Diana, the Diva triformis.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StaraZagora_Kapitel_Nadpis_Macmichael_1818_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Eski Sagra",
+                "nameContemporary": "Stara Zagora",
+                "description": "William Macmichael describes capital of a column with a Greek inscription: Θ TAYPoΔoMETIoN.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.42392",
+                    "longitude": "25.63213"
+                },
+                "geonamesLink": "https://www.geonames.org/726848/stara-zagora.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216731/augusta-traiana",
+                "date": "29.01.1818",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "low",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "inscriptions"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "Roman Age",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 143-144.",
+                "annotation": "William Macmichael traveled from Moscow to Istanbul.",
+                "keywords": "Stara Zagora, Augusta Traiana, capital, column, inscription",
+                "sourceContent": "On riding out of the town of Eski Sagra, we observed on the capital of the pilaster, not in very good taste, that was lying on the ground, and partly covered with long grass, the Greek Charakters Θ TAYPoΔoMETIoN. It is difficult to assign any precise meaning to this inscription; perhaps, the latter word may be the appellation of some neighbouring town or village.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StSofia_Galt_1811_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Church of Saint Sophia",
+                "nameContemporary": "St Sofia Basilica",
+                "description": "John Galt describes the church of Saint Sophia as the only ancient building in Sofia. He mentions that it was converted to a mosque and used as a gunpowder magazine.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33126"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "1811",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "religious",
+                        "item": [
+                            "church",
+                            "mosque"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Galt",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 340.",
+                "annotation": "John Galt traveled from Istanbul to Vidin and back to Istanbul.",
+                "keywords": "Sofia, St Sofia basilica, church",
+                "sourceContent": "The only ancient building in the town, is the church of Saint Sophia, a considerable fabric, long since converted into a mosch. It was used as the powder magazine.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StSofia_Tafferner_1665_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "No name",
+                "nameContemporary": "St Sofia Basilica",
+                "description": "P. Tafferner only mentions the church.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33126"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "16.07.1665",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "religious",
+                        "item": [
+                            "church",
+                            "mosque"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Paul Tafferner",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "sourceInformation": "Tafferner, Paul. Cæsarea legatio, quam mandante augustissimo Rom. Imperatore Leopoldo 1. Ad portam Ottomanticam suscepit, perfecitque excellentissimus dominus, dominus Walterus s.r.i. comes de Leslie, ... atque illustrissimo domino, domino Jacobo s.r.i. comiti de Leslie. Viennae, 1668, p. 42.",
+                "annotation": null,
+                "keywords": "Sofia, St Sofia basilica, church",
+                "sourceContent": "Templum olim a Christiana pietate in modum crucis exstructum nunc pro infami Moschea defervit.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/50108689/#Tafferner,_Paul,_1608-1677",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Svishtov_Krepost_Morritt_1794_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Sistova",
+                "nameContemporary": "Svishtov",
+                "description": "John Morritt mentions an old frontier castle in Svishtov.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.62151",
+                    "longitude": "25.34473"
+                },
+                "geonamesLink": "https://www.geonames.org/726534/svishtov.html",
+                "pleiadesLink": null,
+                "date": "28.07.1794",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "fortifications",
+                        "item": "fortress"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John B. S. Morritt",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "The Letters of John B. S. Morritt of Rokeby. Descriptive of journeys in Europe and Asia Minor in the years 1794-1796. Ed. by G. E. Marindin. London, 1914, p. 64.",
+                "annotation": "John Morritt traveled from Bucharest to Istanbul.",
+                "keywords": "Svishtov, fortress",
+                "sourceContent": "Sistova stands prettily along the banks of it, ornamented with orchards, and an old frontier castle on the side of a slope that overhangs the river, and relieves the eye considerably after the tiresome flats of Wallachia.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/47197197/#Morritt,_John_B._S._(John_Bacon_Sawrey),_1772?-1843",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Tarnovo_Macmichael_1818_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Terniva",
+                "nameContemporary": "Veliko Tarnovo",
+                "description": "William Macmichael supposes that Tarnovo was built on the site of the ancien town Nicopolis ad Istrum (Nocopolis ad Haemum).",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.08304",
+                    "longitude": "25.65222"
+                },
+                "geonamesLink": "https://www.geonames.org/725993/veliko-turnovo.html",
+                "pleiadesLink": null,
+                "date": "27.01.1818",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "settlements",
+                        "item": "town"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "middle_ages",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 138.",
+                "annotation": "William Macmichael traveled from Moscow to Istanbul.",
+                "keywords": "Veliko Tarnovo, Nicopolis ad Istrum, Nicopolis ad Haemum, localisation",
+                "sourceContent": "After a ride of two hours by moonlight, a sharp turn of the road brought us suddenly to the wooden gate of the town of Terniva, conjectured to occupy the site of the ancient city Nicopolis ad Haemum.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Ammann_1612_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Scardus Berg",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Hans Jacob Ammann only mentions an old gate",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1612",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Ammann, Hans Jacob. Reiss in das Gelobte Land. Zürich, 1618, p. 20.",
+                "annotation": "The author describes his travel from Vienna to Jerusalem in 1612",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Auf aller hohe dess Bergs hates ein alte hohe Porten.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/40202535/#Ammann,_Hans_Jacob,_1586-1658",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Galt_1811_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "No name",
+                "nameContemporary": "Trajan's Gate",
+                "description": "John Galt mentions a Roman gateway.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1811",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": "Roman Age",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Galt",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 331.",
+                "annotation": "John Galt traveled from Istanbul to Vidin and back to Istanbul.",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Towards the west end it begins to ascend; and, after winding for some time along the shaggy cornice of fearful precipices, passes through a Roman gateway, which serves to attest the ancient importance attached to the pass.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Glover_1596_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "No name",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Thomas Glover describes remains of a fortress, fortification walls and the gate",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "20.07.1596",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "fortifications",
+                            "item": "fortress"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "linear",
+                            "item": [
+                                "stone_wall",
+                                "gate"
+                            ]
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Thomas Glover",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Purchas, S. The journey of Edward Barton Esquire, her Majesties Ambassadour with the Grand Signior, otherwise called the Great Turke, in Constantinople, Sultan Mahumet Chan. Written by Sir Thomas Glover, then Secretarie to the Ambassadour, and since employed in that Honourable Function by his Majestie, to Sultan Achmet. Two Letters are also inserted, written from Agria, by the said Ambassador Barton. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 306.",
+                "annotation": "Thomas Glover describes the ravel of the English ambassador Edward Barton Esquire, who accompanied sultan Mehmed III in his campaign in Hungary",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "At the mouth or rather the entrance on the North-side, it is fortified with a mightie great wall from Mountayne to Mountayne, and a strong Castle in the midst, with a great Gate to passe thorow, there is yet to be seene part of the wals, or rather fragments: the wals adjoyning to the Gate are marvellous loose, and shake, readie to fal.",
+                "copyrightStoragePlace": null,
+                "viaf": null,
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Hiltebrandt_1658_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Capiderwent",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Hiltebrandt only mentions a gate",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "16.03.1658",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": [
+                            "stone_wall",
+                            "gate"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Conrad Jacob Hiltebrandt's Dreifache schwedische Gesandtschaftsreise nach Siebenbürgen: der Ukraine und Constantinopel (1656-1658). Hrsg. F. Babinger. Leiden: E. J. Brill, 1937, pp. 160-161",
+                "annotation": "Hiltebrandt accompanied a diplomatic mission of the Swedish king Carl Gustav XII to the Ottoman empire in 1657-1658",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Weiter Kahmen Wihr den 16: Martij biss Capiderwent, 8 Stunden, lauter hohe Berge Von dem Macedonischen Gebirge. Alhier war gar eine enge Passage und ein Alt stück Mauwr, wie ein Thor.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/42237011/#Hiltebrandt,_Conrad_Jacob_1629-1679",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Montagu_1717_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Trajan's Gate",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Mary Montagu mentions the arch.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "01.04.1717",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": "Roman Age",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Mary Montagu",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "The Letters and Works of Lady Mary Wortley Montagu. Edited by her great-grandson Lord Wharncliffe. Third edition, with additions and corrections derived from the original manuscripts, illustrative notes, and new memoir by W. Moy Thomas. Vol. I. London, 1861, p. 291.",
+                "annotation": "Lady Mary Montagu traveled from Vienna to Istanbul.",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "We passed near the piece of an arch, which is commonly called Trajan's Gate, as supposing he made it to shut up the passage over the mountains between Sophia and Philipopolis. But I rather believe it the remains of some triumphal arch (though I could not see any inscription); for if that passage had been shut up, there arе many others that would serve for the march of an army;",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/7394587/#Montagu,_Mary_Wortley,_Lady,_1689-1762",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Mundi_1620_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Cappeekeoy",
+                "nameContemporary": "Trajans Gate",
+                "description": "Peter Mundy mentions a ruinous arch made of bricks. As a builder of the arch he mentions Alexander the Great.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "19.05.1620",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": "iron_age",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Peter Mundy",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Mundy, Peter. The Travels of Peter Mundy, in Europe and Asia, 1608-1667. Vol. I. Travels in Europe, 1608-1628. Ed. by Lt.-Col. Sir Richard Carnac Temple. Cambridge, 1907, p. 61.",
+                "annotation": "Peter Mundy traveled from Istanbul to London with the ex-ambassador Paul Pindar in 1620.",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Att six miles end wee came to Yelkeeoy, a village of poore Christians, and four miles further, to Cappeekeoy an other poore village, where is to bee seene a great, high, ruinous Arch of brick, by reporte built by Allexander.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61697576/#Mundy,_Peter,_active_1600-1667",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Tafferner_1665_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Kifterfent",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Tafferner mentions the ruins of the so-called Iron Gates",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "20.07.1665",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Latin"
+                },
+                "sourceInformation": "Tafferner, Paul. Cæsarea legatio, quam mandante augustissimo Rom. Imperatore Leopoldo 1. Ad portam Ottomanticam suscepit, perfecitque excellentissimus dominus, dominus Walterus s.r.i. comes de Leslie, ... atque illustrissimo domino, domino Jacobo s.r.i. comiti de Leslie. Breszlau 1680, pp. 42-43.",
+                "annotation": "Tafferner traveled form Vienna to Istambul with the embassy of count Leslie in 1665. The name Kifterfent refers to Momin prohod pass, not to Trajan's Gate pass.",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Famofia ibi porta ferrea a praealto monte, ac ruderibus in memoriae folius monumentum proftat.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/50108689/#Tafferner,_Paul,_1608-1677",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Wallsdorff_1664_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Derbent, Temir capi",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Wallsdorff mentions only ruins of a castle (Schloss)",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1664",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "fortifications",
+                        "item": "fortress"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Wallsdorff, Christian von. Türkischer Landstürtzer/ oder Neue Beschreibung Der fürnehmsten/ Türkischen Städte/ und Vestungen/ durch Ungarn/ Thracien/ und Egypten : Darinnen nicht allein Gran/ Ofen/ Griechisch-Weissenburg/ Sophia/ Philippolis/ Adrianopel/ Constantinopel/ Galata/ Alexandrien/ Alkair/ samt andern ausführlich beschrieben: Sondern auch allerley berühmte Flüsse/ Brucken/ Seehäfen ... mit Fleiß bemerket warden. 1664, p. 6.",
+                "annotation": "Christian von Wallsdorff was a prisoner-of-war in the Ottoman empire between 1660 and 1664 and he describes the lands he visited himself",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Darob/ vor Zeiten (wie noch eingefallen Gemäuer  anzeigt) ein berates Schloß / zu einer Beschützung wider die Feinde / erbaut gewesen / welches Türken Derbent, das ist/ den engen Pass /auch Temir capi, das ist/ das Eisen-Thor nennen.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/processed/DNB%7C124340067",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Wenner_1616_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Derbent/ Temir-capi",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Adam Wenner mentions ruins of an old castle (Schloss)",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "22.07.1616",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "fortifications",
+                            "item": "fortress"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "linear",
+                            "item": "gate"
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Wenner von Crailßheim, Adam. Ein gantz new Reysebuch von Prag auß biß gen Constantinopel (etc.). Nuerenberg, 1622, p. 34",
+                "annotation": "The author describes the travel of a Habsburg legacy from Prague to Istanbul in 1616-1617.",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Darob zu Ende vor seiten wie noch die Rudera anzeigen ein beftes Schloss zur defension der Feind erbawet gewesen, welches die Turcten Derbent: das ist dess engen Pass und auch Temir-capi, eisene Thor nennen.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/305119880/#Wenner,_Adam",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TransGate_Neitzschitz_1634_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Temir Capi",
+                "nameContemporary": "Trajan's Gate",
+                "description": "Neitzschitz mentions an old gate",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "08.03.1634",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "high",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "linear",
+                        "item": "gate"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "German"
+                },
+                "sourceInformation": "Neitzschitz, Georg Christoph von. Sieben-jährige und gefährliche Neu-verbesserte Europae-Asiat- und Africanische Welt-Beschauung Des weiland... Nürnberg, 1674, p. 64",
+                "annotation": "Neitzschitz describes the travel of a Habsburg legacy to Istanbul in 1634",
+                "keywords": "Gate of Trajan, Arch, Fortification",
+                "sourceContent": "Denn da stehet auf einem hohen Geburge ger ein urhaltes von gehauenen Steinen fehrt hohes und oben rund geivolbtes Thor.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/69981516/#Neitzschitz,_Georg_Christoph_von",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Varna_Neale_1806_EN.xml",
+        "content": {
+            "siteObject": {
+                "author": "Ivan Valchev",
+                "nameSource": "Varna, ancient Odessus",
+                "nameContemporary": "Varna",
+                "description": "Adam Neale mentions ruins of some quadrangular towers",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.19968",
+                    "longitude": "27.91836"
+                },
+                "geonamesLink": "https://www.geonames.org/726050/varna.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216904",
+                "date": "1806",
+                "datingCriteria": "internal-date",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "fortifications"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "settlements",
+                            "item": "town"
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Adam Neale",
+                "ageContemporary": "Late Antiquity",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "English"
+                },
+                "sourceInformation": "Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 264.",
+                "annotation": "Adam Neale traveled from Istanbul to Varna and then to Bucharest.",
+                "keywords": "Varna, fortifications, towers",
+                "sourceContent": "The high ruins of some quadrangular towers, announced at some distance the importance of the ancient city of Odessus, celebrated in history as the earliest sea-port of the Milesians, on the Euxine, and in modern times, for the defeat and death of Ladislaus, king of Hungary, whose army was totally destroyed in the adjoining valley, by the Turkish Emperor Amurath the First.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832",
+                "iiif": null
+            }
+        }
+    }
+]
