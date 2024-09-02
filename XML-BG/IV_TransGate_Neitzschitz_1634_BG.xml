@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Temir Capi</nameSource>
+    <nameContemporary>Траянови врата</nameContemporary>
+    <description>Найчиц споменава висока порта, изградена от дялани камъни и горе засводена </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>08.03.1634</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="линейна структура">
+            <item>порта</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="deu">Немски</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Neitzschitz, Georg Christoph von. Sieben-jährige und gefährliche Neu-verbesserte Europae-Asiat- und Africanische Welt-Beschauung Des weiland... Nürnberg, 1674, p. 64</sourceInformation>
+    <annotation>Найчиц описва пътуването на Хабсбургско пратеничество до Истанбул през 1634 г. </annotation>
+    <keywords>Траянови врата, арка, фортификация</keywords>
+    <sourceContent>Denn da stehet auf einem hohen Geburge ger ein urhaltes von gehauenen Steinen fehrt hohes und oben rund geivolbtes Thor.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/69981516/#Neitzschitz,_Georg_Christoph_von</viaf>
+    <iiif/>
+</siteObject>

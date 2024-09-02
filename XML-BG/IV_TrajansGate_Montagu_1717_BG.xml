@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Trajan's Gate </nameSource>
+    <nameContemporary>Траянови врата</nameContemporary>
+    <description>Мери Мпнтегю споменава арката. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>01.04.1717</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age>римска епоха</age>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="линейна структура">
+            <item>порта</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Mary Montagu</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>The Letters and Works of Lady Mary Wortley Montagu. Edited by her great-grandson Lord Wharncliffe. Third edition, with additions and corrections derived from the original manuscripts, illustrative notes, and new memoir by W. Moy Thomas. Vol. I. London, 1861, p. 291.  </sourceInformation>
+    <annotation>Мери Монтегю пътува от Виена за Истанбул. </annotation>
+    <keywords>Траянови врата, арка, фортификация</keywords>
+    <sourceContent>We passed near the piece of an arch, which is commonly called Trajan's Gate, as supposing he made it to shut up the passage over the mountains between Sophia and Philipopolis. But I rather believe it the remains of some triumphal arch (though I could not see any inscription); for if that passage had been shut up, there arе many others that would serve for the march of an army;</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/7394587/#Montagu,_Mary_Wortley,_Lady,_1689-1762</viaf>
+    <iiif/>
+</siteObject>

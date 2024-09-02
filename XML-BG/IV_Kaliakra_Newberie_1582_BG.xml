@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Caliacca </nameSource>
+    <nameContemporary>Калиакра </nameContemporary>
+    <description>Джон Нюбъри споменава крепостта на нос Каликра, покрай която минава с кораб </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>43.36221</latitude>
+        <longitude>28.46545</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/730765/kaliakra.html</geonamesLink>
+    <pleiadesLink>https://pleiades.stoa.org/places/217013/?searchterm=Kaliakra*</pleiadesLink>
+    <date>14.04.1582</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="укрепления">
+            <item>каменна крепост</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>John Newberie</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.</sourceInformation>
+    <annotation>Джон Нюбъри пътува по море от Константинопол за делтата на Дунав и минава край Калиакра. </annotation>
+    <keywords>Каликара, крепост</keywords>
+    <sourceContent>The fourteenth day in the morning we passed by a Castle called Caliacca, which standeth upon the Cape of a Land, and hath to the Eastward two small Pillars, and neere unto them a great stone much like a man.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585</viaf>
+    <iiif/>
+</siteObject>

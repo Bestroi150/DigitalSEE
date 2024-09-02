@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Justinian's church</nameSource>
+    <nameContemporary>Базилика Света София</nameContemporary>
+    <description>Мери Монтегю съвсем накратко споменава базиликата Св. София в София </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.69657</latitude>
+        <longitude>23.33127</longitude>
+    </geographicCoordinates>
+    <geonamesLink/>
+    <pleiadesLink/>
+    <date>01.04.1717</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age>Късна античност</age>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="religious">
+            <item>church</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Mary Montagu</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>The Letters and Works of Lady Mary Wortley Montagu. Edited by her great-grandson Lord Wharncliffe. Third edition, with additions and corrections derived from the original manuscripts, illustrative notes, and new memoir by W. Moy Thomas. Vol. I. London, 1861, p. 286.  </sourceInformation>
+    <annotation>Мери Монтегю пътува от Виена за истанбул. </annotation>
+    <keywords>София, базилика Света София, църква</keywords>
+    <sourceContent>but Mr. W [Wortley] resolving to pursue his journey the next morning early, I was in haste to see the ruins of Justinian's church, which did not afford me so agreeable a prospect as I had left, being little more than a heap of stones.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/7394587/#Montagu,_Mary_Wortley,_Lady,_1689-1762</viaf>
+    <iiif/>
+</siteObject>

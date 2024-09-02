@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Няма име </nameSource>
+    <nameContemporary>Траянови врата</nameContemporary>
+    <description>Томас Глоувър описва останките от крепост, стени и порта. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>20.07.1596</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="укрепления">
+            <item>каменна крепост</item>
+        </list>
+    </desc>
+    <desc type="category">
+        <list type="линейна структура">
+            <item>каменна стена</item>
+            <item>порта</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Thomas Glover </authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Purchas, S. The journey of Edward Barton Esquire, her Majesties Ambassadour with the Grand Signior, otherwise called the Great Turke, in Constantinople, Sultan Mahumet Chan. Written by Sir Thomas Glover, then Secretarie to the Ambassadour, and since employed in that Honourable Function by his Majestie, to Sultan Achmet. Two Letters are also inserted, written from Agria, by the said Ambassador Barton. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 306.  </sourceInformation>
+    <annotation>Томас Глоувър описва пътуването на английския посланик Едуард Бартън Ескуайр, който придружава султан Мехмед III по време на похода му в Унгария </annotation>
+    <keywords>Gate of Trajan, Arch, Fortification</keywords>
+    <sourceContent>At the mouth or rather the entrance on the North-side, it is fortified with a mightie great wall from Mountayne to Mountayne, and a strong Castle in the midst, with a great Gate to passe thorow, there is yet to be seene part of the wals, or rather fragments: the wals adjoyning to the Gate are marvellous loose, and shake, readie to fal.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf/>
+    <iiif/>
+</siteObject>

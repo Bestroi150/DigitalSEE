@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Eski Sagra </nameSource>
+    <nameContemporary>Стара Загора </nameContemporary>
+    <description>Уилям Макмайкъл описва капител на колона с гръцки надпис: Θ TAYPoΔoMETIoN</description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.42392</latitude>
+        <longitude>25.63213</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/726848/stara-zagora.html</geonamesLink>
+    <pleiadesLink>https://pleiades.stoa.org/places/216731/augusta-traiana</pleiadesLink>
+    <date>29.01.1818</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>low</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="inscriptions"/>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>William Macmichael</authorPublication>
+    <ageContemporary>римска епоха</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 143-144. </sourceInformation>
+    <annotation>Уилям Макмайкъл пътува от Москва за Истанбул.</annotation>
+    <keywords>Стара Загора, Августа Траяна, капител, колона, надпис </keywords>
+    <sourceContent>On riding out of the town of Eski Sagra, we observed on the capital of the pilaster, not in very good taste, that was lying on the ground, and partly covered with long grass, the Greek Charakters Θ TAYPoΔoMETIoN. It is difficult to assign any precise meaning to this inscription; perhaps, the latter word may be the appellation of some neighbouring town or village.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839</viaf>
+    <iiif/>
+</siteObject>

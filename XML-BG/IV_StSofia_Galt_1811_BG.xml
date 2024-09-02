@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Church of Saint Sophia </nameSource>
+    <nameContemporary>Базилика Света София</nameContemporary>
+    <description>Джон Галт описва църквата Света София като единствената антична сграда в София. Отбелязва, че е превърната в джамия, а към 1811 г. е използвана за склад за барут. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.69657</latitude>
+        <longitude>23.33126</longitude>
+    </geographicCoordinates>
+    <geonamesLink/>
+    <pleiadesLink/>
+    <date>1811</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="religious">
+            <item>church</item>
+            <item>mosque</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>John Galt</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 340.</sourceInformation>
+    <annotation>Джон Галт пътува от Истанбул до Видим и обратно.</annotation>
+    <keywords>София, базилика Света София, църква</keywords>
+    <sourceContent>The only ancient building in the town, is the church of Saint Sophia, a considerable fabric, long since converted into a mosch. It was used as the powder magazine. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839</viaf>
+    <iiif/>
+</siteObject>

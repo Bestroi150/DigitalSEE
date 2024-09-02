@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Без име </nameSource>
+    <nameContemporary>Базилика Света София </nameContemporary>
+    <description>П. Тафернер само споменава църквата, </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.69657</latitude>
+        <longitude>23.33126</longitude>
+    </geographicCoordinates>
+    <geonamesLink/>
+    <pleiadesLink/>
+    <date>16.07.1665</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="religious">
+            <item>church</item>
+            <item>mosque</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Paul Tafferner </authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="lat">Латински</originalLanguage>
+    <publicationLanguage xml:lang="lat">Латински</publicationLanguage>
+    <sourceInformation>Tafferner, Paul. Cæsarea legatio, quam mandante augustissimo Rom. Imperatore Leopoldo 1. Ad portam Ottomanticam suscepit, perfecitque excellentissimus dominus, dominus Walterus s.r.i. comes de Leslie, ... atque illustrissimo domino, domino Jacobo s.r.i. comiti de Leslie. Viennae, 1668, p. 42.</sourceInformation>
+    <annotation/>
+    <keywords>София, базилика Света София, църква </keywords>
+    <sourceContent>Templum olim a Christiana pietate in modum crucis exstructum nunc pro infami Moschea defervit. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/50108689/#Tafferner,_Paul,_1608-1677</viaf>
+    <iiif/>
+</siteObject>

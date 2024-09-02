@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Derbent, Temir capi </nameSource>
+    <nameContemporary>Траянови врата</nameContemporary>
+    <description>Валсдорф споменава само руини от крепост </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>1664</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="укрепления">
+            <item>каменна крепост</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="deu">Немски</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Wallsdorff, Christian von. Türkischer Landstürtzer/ oder Neue Beschreibung Der fürnehmsten/ Türkischen Städte/ und Vestungen/ durch Ungarn/ Thracien/ und Egypten : Darinnen nicht allein Gran/ Ofen/ Griechisch-Weissenburg/ Sophia/ Philippolis/ Adrianopel/ Constantinopel/ Galata/ Alexandrien/ Alkair/ samt andern ausführlich beschrieben: Sondern auch allerley berühmte Flüsse/ Brucken/ Seehäfen ... mit Fleiß bemerket warden. 1664, p. 6.</sourceInformation>
+    <annotation>Кристиан фон Валсдорф е пленник в Османската имерия между 1660 и 1664 г. и описва лично посетените от него земи. </annotation>
+    <keywords>Траянови врата, арка, фортификация</keywords>
+    <sourceContent>Darob/ vor Zeiten (wie noch eingefallen Gemäuer  anzeigt) ein berates Schloß / zu einer Beschützung wider die Feinde / erbaut gewesen / welches Türken Derbent, das ist/ den engen Pass /auch Temir capi, das ist/ das Eisen-Thor nennen.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/processed/DNB%7C124340067</viaf>
+    <iiif/>
+</siteObject>

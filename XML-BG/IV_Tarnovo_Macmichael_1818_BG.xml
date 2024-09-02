@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Terniva </nameSource>
+    <nameContemporary>Велико Търново </nameContemporary>
+    <description>Уилям Макмайкъл предполага, че Търново заема мястото на античния град Никополис ад Иструм (Никополис ад Хемум). </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>43.08304</latitude>
+        <longitude>25.65222</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/725993/veliko-turnovo.html</geonamesLink>
+    <pleiadesLink/>
+    <date>27.01.1818</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="settlements">
+            <item>town</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>William Macmichael</authorPublication>
+    <ageContemporary>middle_ages</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 138. </sourceInformation>
+    <annotation>Уилям Макмайкъл пътува от Москва за Истанбул.</annotation>
+    <keywords>Велико Търново, Никополис ад Иструм, Никополис ад Хемум, локализация </keywords>
+    <sourceContent>After a ride of two hours by moonlight, a sharp turn of the road brought us suddenly to the wooden gate of the town of Terniva, conjectured to occupy the site of the ancient city Nicopolis ad Haemum. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839</viaf>
+    <iiif/>
+</siteObject>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Kirche zu Sophia </nameSource>
+    <nameContemporary>St Sofia Basilica</nameContemporary>
+    <description>Герхард Корнелис фон Дриш накратко описва църквата Св. София </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.69657</latitude>
+        <longitude>23.33127</longitude>
+    </geographicCoordinates>
+    <geonamesLink/>
+    <pleiadesLink/>
+    <date>30.06.1718</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="religious">
+            <item>church</item>
+            <item>mosque</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Gerhard Cornelius von Driesch</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="lat">Латински</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 100. </sourceInformation>
+    <annotation/>
+    <keywords>София, базилика Света София, църква</keywords>
+    <sourceContent>Es zeiget so wol die Art des Gebäues, als dessen Gestalt, Eintheilung, Schiff, Sacristey und anders, daß dieselbige ehmaln denen Christen zu ihrem Gottesdienst gedienet habe; jedoch ist nicht zu läugnen, daß der Thurn und daran liegende Gewölbe von den Türken aufgebauet worden.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758</viaf>
+    <iiif/>
+</siteObject>

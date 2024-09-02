@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Emonna</nameSource>
+    <nameContemporary>Емона</nameContemporary>
+    <description>Джон Нюбъри споменава крепостта Емона </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.70127</latitude>
+        <longitude>27.89989</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/731653/emona.html</geonamesLink>
+    <pleiadesLink/>
+    <date>12.04.1582</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="укрепления">
+            <item>каменна крепост</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>John Newberie </authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.</sourceInformation>
+    <annotation>Джон Нюбъри пътува по море от Константинопол за делтата на Дунав и пренощува в Емона. </annotation>
+    <keywords>Emona, Fortification, каменна крепост </keywords>
+    <sourceContent>The twelfth day we set saile from Sissopoli, and the same night came to an anchor under a Cape of Land, where is a Casal called Emonna. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585</viaf>
+    <iiif/>
+</siteObject>
