@@ -1,0 +1,1761 @@
+[
+    {
+        "filename": "IV_BerkovitsaCaleto_Galt_1811_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Belkofsa",
+                "nameContemporary": "Berkovitsa",
+                "description": "John Galt mentions a small ancient fortification.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.24181",
+                    "longitude": "23.12585"
+                },
+                "geonamesLink": "https://www.geonames.org/733264/berkovitsa.html",
+                "pleiadesLink": null,
+                "date": "1811",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "укрепления",
+                        "item": "каменна крепост"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Galt",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 345-346.",
+                "annotation": "John Galt traveled from Istanbul to Vidin and back to Istanbul.",
+                "keywords": "Berkovitsa, каменна крепост",
+                "sourceContent": "On a neighbouring hill, overlooking the град, is a small ancient fortification, which has also lately strengthened by new works, and a garrison of several hundred men.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Driesch_StSophia_1718_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Kirche zu Sophia",
+                "nameContemporary": "St Sofia Basilica",
+                "description": "Герхард Корнелис фон Дриш накратко описва църквата Св. София",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33127"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "30.06.1718",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "култови обекти",
+                        "item": [
+                            "църква",
+                            "джамия"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Gerhard Cornelius von Driesch",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Латински"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 100.",
+                "annotation": null,
+                "keywords": "София, базилика Света София, църква",
+                "sourceContent": "Es zeiget so wol die Art des Gebäues, als dessen Gestalt, Eintheilung, Schiff, Sacristey und anders, daß dieselbige ehmaln denen Christen zu ihrem Gottesdienst gedienet habe; jedoch ist nicht zu läugnen, daß der Thurn und daran liegende Gewölbe von den Türken aufgebauet worden.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Emona_Newberie_1582_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Emonna",
+                "nameContemporary": "Емона",
+                "description": "Джон Нюбъри споменава крепостта Емона",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.70127",
+                    "longitude": "27.89989"
+                },
+                "geonamesLink": "https://www.geonames.org/731653/emona.html",
+                "pleiadesLink": null,
+                "date": "12.04.1582",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "укрепления",
+                        "item": "каменна крепост"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Newberie",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.",
+                "annotation": "Джон Нюбъри пътува по море от Константинопол за делтата на Дунав и пренощува в Емона.",
+                "keywords": "Emona, Fortification, каменна крепост",
+                "sourceContent": "The twelfth day we set saile from Sissopoli, and the same night came to an anchor under a Cape of Land, where is a Casal called Emonna.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Kaliakra_Newberie_1582_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Caliacca",
+                "nameContemporary": "Калиакра",
+                "description": "Джон Нюбъри споменава крепостта на нос Каликра, покрай която минава с кораб",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.36221",
+                    "longitude": "28.46545"
+                },
+                "geonamesLink": "https://www.geonames.org/730765/kaliakra.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/217013/?searchterm=Kaliakra*",
+                "date": "14.04.1582",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "укрепления",
+                        "item": "каменна крепост"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Newberie",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Newberie, John. Two voyages of Master John Newberie, One, into the Holy Land, The other to Balsara, Ormus, Persia, and backe thorow Turkie. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 477.",
+                "annotation": "Джон Нюбъри пътува по море от Константинопол за делтата на Дунав и минава край Калиакра.",
+                "keywords": "Каликара, крепост",
+                "sourceContent": "The fourteenth day in the morning we passed by a Castle called Caliacca, which standeth upon the Cape of a Land, and hath to the Eastward two small Pillars, and neere unto them a great stone much like a man.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/172242445/#Newberry,_John,_-1584_or_1585",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Montagu_StSophia_1717_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Justinian's църква",
+                "nameContemporary": "Базилика Света София",
+                "description": "Мери Монтегю съвсем накратко споменава базиликата Св. София в София",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33127"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "01.04.1717",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": "Късна античност",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "култови обекти",
+                        "item": "църква"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Mary Montagu",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "The Letters and Works of Lady Mary Wortley Montagu. Edited by her great-grandson Lord Wharncliffe. Third edition, with additions and corrections derived from the original manuscripts, illustrative notes, and new memoir by W. Moy Thomas. Vol. I. London, 1861, p. 286.",
+                "annotation": "Мери Монтегю пътува от Виена за истанбул.",
+                "keywords": "София, базилика Света София, църква",
+                "sourceContent": "but Mr. W [Wortley] resolving to pursue his journey the next morning early, I was in haste to see the ruins of Justinian's църква, which did not afford me so agreeable a prospect as I had left, being little more than a heap of stones.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/7394587/#Montagu,_Mary_Wortley,_Lady,_1689-1762",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_NicopolisadIstrum_Macmichael_1818_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Няма име",
+                "nameContemporary": "Никополис ад Иструм",
+                "description": "Уилям Макмайкъл споменава могили и руини на град.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.21805",
+                    "longitude": "25.61224"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": "https://pleiades.stoa.org/places/216895/nicopolis-ad-istrum",
+                "date": "26.01.1818",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "селища",
+                        "item": "град"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "римска епоха",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 136.",
+                "annotation": "Уилям Макмайкъл пътува от Москва за Истанбул.",
+                "keywords": "Никополис ад Иструм, руини, римски град",
+                "sourceContent": "At the distance of three hours, having crossed a small plain, covered with more than  fifty barrows, on the right of which were observable the walls of a ruined град;",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Sozopol_Coins_Neale_1806_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Sizeboli, ancient Apollonia",
+                "nameContemporary": "Созопол",
+                "description": "Адам Нийл закупува стари монети на Истрия, Аполония и Бизантион в Созопол.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.42455",
+                    "longitude": "27.69512"
+                },
+                "geonamesLink": "https://www.geonames.org/726963/sozopol.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216706/apollonia-pontica/?searchterm=Apollonia%20Pontica*",
+                "date": "1806",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "other",
+                        "item": "coins"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Adam Neale",
+                "ageContemporary": "iron_age",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 262.",
+                "annotation": "Адам Нийл пътува по море от Истанбул до Варна и след това по суша до Букурещ.",
+                "keywords": "Созопол, Аполония, антични монети",
+                "sourceContent": "In the afternoon we reached the village of Sizeboli, the ancient Apollonia, where we procured some fried eggs, bread, and Haemean honey, for a few aspers. A Greek produced for sale, ancient coins in a leathern bag, from which we selected a few of Istropolis, Apollonia, and Byzantium. Those of Istropolis have been before mentioned. That of Apollonia is of brass, and represents three women with joined hands dancing around a flaming cauldron, performing the Circean orgies of Hecate the infernal Diana, the Diva triformis.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StaraZagora_Kapitel_Nadpis_Macmichael_1818_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Eski Sagra",
+                "nameContemporary": "Стара Загора",
+                "description": "Уилям Макмайкъл описва капител на колона с гръцки надпис: Θ TAYPoΔoMETIoN",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.42392",
+                    "longitude": "25.63213"
+                },
+                "geonamesLink": "https://www.geonames.org/726848/stara-zagora.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216731/augusta-traiana",
+                "date": "29.01.1818",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "low",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "inscriptions"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "римска епоха",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 143-144.",
+                "annotation": "Уилям Макмайкъл пътува от Москва за Истанбул.",
+                "keywords": "Стара Загора, Августа Траяна, капител, колона, надпис",
+                "sourceContent": "On riding out of the град of Eski Sagra, we observed on the capital of the pilaster, not in very good taste, that was lying on the ground, and partly covered with long grass, the Greek Charakters Θ TAYPoΔoMETIoN. It is difficult to assign any precise meaning to this inscription; perhaps, the latter word may be the appellation of some neighbouring град or village.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StSofia_Galt_1811_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "църква of Saint Sophia",
+                "nameContemporary": "Базилика Света София",
+                "description": "Джон Галт описва църквата Света София като единствената антична сграда в София. Отбелязва, че е превърната в джамия, а към 1811 г. е използвана за склад за барут.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33126"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "1811",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "култови обекти",
+                        "item": [
+                            "църква",
+                            "джамия"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Galt",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 340.",
+                "annotation": "Джон Галт пътува от Истанбул до Видим и обратно.",
+                "keywords": "София, базилика Света София, църква",
+                "sourceContent": "The only ancient building in the град, is the църква of Saint Sophia, a considerable fabric, long since converted into a mosch. It was used as the powder magazine.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_StSofia_Tafferner_1665_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Без име",
+                "nameContemporary": "Базилика Света София",
+                "description": "П. Тафернер само споменава църквата,",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.69657",
+                    "longitude": "23.33126"
+                },
+                "geonamesLink": null,
+                "pleiadesLink": null,
+                "date": "16.07.1665",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "култови обекти",
+                        "item": [
+                            "църква",
+                            "джамия"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Paul Tafferner",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Латински"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Латински"
+                },
+                "sourceInformation": "Tafferner, Paul. Cæsarea legatio, quam mandante augustissimo Rom. Imperatore Leopoldo 1. Ad portam Ottomanticam suscepit, perfecitque excellentissimus dominus, dominus Walterus s.r.i. comes de Leslie, ... atque illustrissimo domino, domino Jacobo s.r.i. comiti de Leslie. Viennae, 1668, p. 42.",
+                "annotation": null,
+                "keywords": "София, базилика Света София, църква",
+                "sourceContent": "Templum olim a Christiana pietate in modum crucis exstructum nunc pro infami Moschea defervit.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/50108689/#Tafferner,_Paul,_1608-1677",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Svishtov_Krepost_Morritt_1794_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Sistova",
+                "nameContemporary": "Свищов",
+                "description": "Джон Бейкън Сори Морит споменава стара гранична крепост на брега на Дунав при Свищов.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.62151",
+                    "longitude": "25.34473"
+                },
+                "geonamesLink": "https://www.geonames.org/726534/svishtov.html",
+                "pleiadesLink": null,
+                "date": "28.07.1794",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "укрепления",
+                        "item": "каменна крепост"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John B. S. Morritt",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "The Letters of John B. S. Morritt of Rokeby. Descriptive of journeys in Europe and Asia Minor in the years 1794-1796. Ed. by G. E. Marindin. London, 1914, p. 64.",
+                "annotation": "Джон Морит пътува от Букурещ до Истанбул.",
+                "keywords": "Свищов, крепост",
+                "sourceContent": "Sistova stands prettily along the banks of it, ornamented with orchards, and an old frontier castle on the side of a slope that overhangs the river, and relieves the eye considerably after the tiresome flats of Wallachia.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/47197197/#Morritt,_John_B._S._(John_Bacon_Sawrey),_1772?-1843",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Tarnovo_Macmichael_1818_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Terniva",
+                "nameContemporary": "Велико Търново",
+                "description": "Уилям Макмайкъл предполага, че Търново заема мястото на античния град Никополис ад Иструм (Никополис ад Хемум).",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.08304",
+                    "longitude": "25.65222"
+                },
+                "geonamesLink": "https://www.geonames.org/725993/veliko-turnovo.html",
+                "pleiadesLink": null,
+                "date": "27.01.1818",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "селища",
+                        "item": "град"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "William Macmichael",
+                "ageContemporary": "средновековие",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Macmichael, William. Journey from Moscow to Constantinople, in the Years 1817, 1818. London, 1819, p. 138.",
+                "annotation": "Уилям Макмайкъл пътува от Москва за Истанбул.",
+                "keywords": "Велико Търново, Никополис ад Иструм, Никополис ад Хемум, локализация",
+                "sourceContent": "After a ride of two hours by moonlight, a sharp turn of the road brought us suddenly to the wooden порта of the град of Terniva, conjectured to occupy the site of the ancient city Nicopolis ad Haemum.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/43042947/#Macmichael,_William,_1783-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Ammann_1612_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Скардус планина",
+                "nameContemporary": "Траянови врата",
+                "description": "Ханс Якоб Аман само споменава една висока стара порта",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1612",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Ammann, Hans Jacob. Reiss in das Gelobte Land. Zürich, 1618, p. 20.",
+                "annotation": "Авторът описва своето пътуване от Виена до Йерусалим през 1612 г.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Auf aller hohe dess Bergs hates ein alte hohe Porten.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/40202535/#Ammann,_Hans_Jacob,_1586-1658",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Galt_1811_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Няма име",
+                "nameContemporary": "Траянови врата",
+                "description": "Джон Галт говори за римска порта.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1811",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": "римска епоха",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "John Galt",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 331.",
+                "annotation": "Джон Галт пътува от Истанбул до Видим и обратно.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Towards the west end it begins to ascend; and, after winding for some time along the shaggy cornice of fearful precipices, passes through a Roman портаway, which serves to attest the ancient importance attached to the pass.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Glover_1596_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Няма име",
+                "nameContemporary": "Траянови врата",
+                "description": "Томас Глоувър описва останките от крепост, стени и порта.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "20.07.1596",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "укрепления",
+                            "item": "каменна крепост"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "линейни структури",
+                            "item": [
+                                "каменна стена",
+                                "порта"
+                            ]
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Thomas Glover",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Purchas, S. The journey of Edward Barton Esquire, her Majesties Ambassadour with the Grand Signior, otherwise called the Great Turke, in Constantinople, Sultan Mahumet Chan. Written by Sir Thomas Glover, then Secretarie to the Ambassadour, and since employed in that Honourable Function by his Majestie, to Sultan Achmet. Two Letters are also inserted, written from Agria, by the said Ambassador Barton. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 306.",
+                "annotation": "Томас Глоувър описва пътуването на английския посланик Едуард Бартън Ескуайр, който придружава султан Мехмед III по време на похода му в Унгария",
+                "keywords": "порта of Trajan, Arch, Fortification",
+                "sourceContent": "At the mouth or rather the entrance on the North-side, it is fortified with a mightie great wall from Mountayne to Mountayne, and a strong Castle in the midst, with a great порта to passe thorow, there is yet to be seene part of the wals, or rather fragments: the wals adjoyning to the порта are marvellous loose, and shake, readie to fal.",
+                "copyrightStoragePlace": null,
+                "viaf": null,
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Hiltebrandt_1658_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Capiderwent",
+                "nameContemporary": "Траянови врата",
+                "description": "Хилтебранд само споменава портата",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "16.03.1658",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": [
+                            "каменна стена",
+                            "порта"
+                        ]
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Conrad Jacob Hiltebrandt's Dreifache schwedische Gesandtschaftsreise nach Siebenbürgen: der Ukraine und Constantinopel (1656-1658). Hrsg. F. Babinger. Leiden: E. J. Brill, 1937, pp. 160-161",
+                "annotation": "Хилтебранд придражава дипломатическо пратеничество на шведския крал Карл Густав XII до Истанбул през 1657-1658 г.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Weiter Kahmen Wihr den 16: Martij biss Capiderwent, 8 Stunden, lauter hohe Berge Von dem Macedonischen Gebirge. Alhier war gar eine enge Passage und ein Alt stück Mauwr, wie ein Thor.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/42237011/#Hiltebrandt,_Conrad_Jacob_1629-1679",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Montagu_1717_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Trajan's порта",
+                "nameContemporary": "Траянови врата",
+                "description": "Мери Мпнтегю споменава арката.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "01.04.1717",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": "римска епоха",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Mary Montagu",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "The Letters and Works of Lady Mary Wortley Montagu. Edited by her great-grandson Lord Wharncliffe. Third edition, with additions and corrections derived from the original manuscripts, illustrative notes, and new memoir by W. Moy Thomas. Vol. I. London, 1861, p. 291.",
+                "annotation": "Мери Монтегю пътува от Виена за Истанбул.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "We passed near the piece of an arch, which is commonly called Trajan's порта, as supposing he made it to shut up the passage over the mountains between Sophia and Philipopolis. But I rather believe it the remains of some triumphal arch (though I could not see any inscription); for if that passage had been shut up, there arе many others that would serve for the march of an army;",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/7394587/#Montagu,_Mary_Wortley,_Lady,_1689-1762",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Mundi_1620_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Cappeekeoy",
+                "nameContemporary": "Trajans порта",
+                "description": "Питър Мънди споменава разрушена арка, изградена от тухли. Приписва строежа на Александър Велики.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "19.05.1620",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": "iron_age",
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Peter Mundy",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Mundy, Peter. The Travels of Peter Mundy, in Europe and Asia, 1608-1667. Vol. I. Travels in Europe, 1608-1628. Ed. by Lt.-Col. Sir Richard Carnac Temple. Cambridge, 1907, p. 61.",
+                "annotation": "Пътър Мънди путува от Истанбул за Лондон заедно с бившия английски посланик сър Пол Пиндар.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Att six miles end wee came to Yelkeeoy, a village of poore Christians, and four miles further, to Cappeekeoy an other poore village, where is to bee seene a great, high, ruinous Arch of brick, by reporte built by Allexander.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/61697576/#Mundy,_Peter,_active_1600-1667",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Tafferner_1665_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Kifterfent",
+                "nameContemporary": "Траянови врата",
+                "description": "Тафернер споменава руините на т. нар. Железни врата",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "20.07.1665",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Латински"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "lat",
+                    "#text":"Латински"
+                },
+                "sourceInformation": "Tafferner, Paul. Cæsarea legatio, quam mandante augustissimo Rom. Imperatore Leopoldo 1. Ad portam Ottomanticam suscepit, perfecitque excellentissimus dominus, dominus Walterus s.r.i. comes de Leslie, ... atque illustrissimo domino, domino Jacobo s.r.i. comiti de Leslie. Breszlau 1680, pp. 42-43.",
+                "annotation": "Тафернер пътува от Виена за Истамбул с пратеничеството на граф Леслие през 1665 г. Посоченото име Кифтервент (Kifterfent) се отнася за Момин проход, а не за Траянови врата.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Famofia ibi porta ferrea a praealto monte, ac ruderibus in memoriae folius monumentum proftat.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/50108689/#Tafferner,_Paul,_1608-1677",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Wallsdorff_1664_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Derbent, Temir capi",
+                "nameContemporary": "Траянови врата",
+                "description": "Валсдорф споменава само руини от крепост",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "1664",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "укрепления",
+                        "item": "каменна крепост"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Wallsdorff, Christian von. Türkischer Landstürtzer/ oder Neue Beschreibung Der fürnehmsten/ Türkischen Städte/ und Vestungen/ durch Ungarn/ Thracien/ und Egypten : Darinnen nicht allein Gran/ Ofen/ Griechisch-Weissenburg/ Sophia/ Philippolis/ Adrianopel/ Constantinopel/ Galata/ Alexandrien/ Alkair/ samt andern ausführlich beschrieben: Sondern auch allerley berühmte Flüsse/ Brucken/ Seehäfen ... mit Fleiß bemerket warden. 1664, p. 6.",
+                "annotation": "Кристиан фон Валсдорф е пленник в Османската имерия между 1660 и 1664 г. и описва лично посетените от него земи.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Darob/ vor Zeiten (wie noch eingefallen Gemäuer  anzeigt) ein berates Schloß / zu einer Beschützung wider die Feinde / erbaut gewesen / welches Türken Derbent, das ist/ den engen Pass /auch Temir capi, das ist/ das Eisen-Thor nennen.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/processed/DNB%7C124340067",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_TrajansGate_Wenner_1616_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Derbent/ Temir-capi",
+                "nameContemporary": "Траянови врата",
+                "description": "Адам Венер споменава руини от стара крепост",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "22.07.1616",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "укрепления",
+                            "item": "каменна крепост"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "линейни структури",
+                            "item": "порта"
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Wenner von Crailßheim, Adam. Ein gantz new Reysebuch von Prag auß biß gen Constantinopel (etc.). Nuerenberg, 1622, p. 34",
+                "annotation": "Авторът описва пътуването на Хабсбургско посолство от Прага до Истанбул през 1616-1617 г.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Darob zu Ende vor seiten wie noch die Rudera anzeigen ein beftes Schloss zur defension der Feind erbawet gewesen, welches die Turcten Derbent: das ist dess engen Pass und auch Temir-capi, eisene Thor nennen.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/305119880/#Wenner,_Adam",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Transпорта_Neitzschitz_1634_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Temir Capi",
+                "nameContemporary": "Траянови врата",
+                "description": "Найчиц споменава висока порта, изградена от дялани камъни и горе засводена",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "42.3561",
+                    "longitude": "23.9183"
+                },
+                "geonamesLink": "https://www.geonames.org/maps/google_42.3561_23.9183.html",
+                "pleiadesLink": null,
+                "date": "08.03.1634",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "висока",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": {
+                    "@type": "category",
+                    "list": {
+                        "@type": "линейни структури",
+                        "item": "порта"
+                    }
+                },
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "deu",
+                    "#text": "Немски"
+                },
+                "sourceInformation": "Neitzschitz, Georg Christoph von. Sieben-jährige und gefährliche Neu-verbesserte Europae-Asiat- und Africanische Welt-Beschauung Des weiland... Nürnberg, 1674, p. 64",
+                "annotation": "Найчиц описва пътуването на Хабсбургско пратеничество до Истанбул през 1634 г.",
+                "keywords": "Траянови врата, арка, фортификация",
+                "sourceContent": "Denn da stehet auf einem hohen Geburge ger ein urhaltes von gehauenen Steinen fehrt hohes und oben rund geivolbtes Thor.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/69981516/#Neitzschitz,_Georg_Christoph_von",
+                "iiif": null
+            }
+        }
+    },
+    {
+        "filename": "IV_Varna_Neale_1806_BG.xml",
+        "content": {
+            "siteObject": {
+                "author": "Иван Вълчев",
+                "nameSource": "Varna, ancient Odessus",
+                "nameContemporary": "Варна",
+                "description": "Адам Нийл споменава руини на четириъгълни кули.",
+                "provenanceOrigin": null,
+                "geographicCoordinates": {
+                    "latitude": "43.19968",
+                    "longitude": "27.91836"
+                },
+                "geonamesLink": "https://www.geonames.org/726050/varna.html",
+                "pleiadesLink": "https://pleiades.stoa.org/places/216904",
+                "date": "1806",
+                "datingCriteria": "датировка, изрично поставена в самия документ",
+                "localizationSource": null,
+                "localizationCertainity": "medium",
+                "age": null,
+                "provenanceObservedIn": null,
+                "geographicCoordinatesObserved": {
+                    "latitudeObserved": null,
+                    "longitudeObserved": null
+                },
+                "geonamesLinkObserved": null,
+                "pleiadesLinkObserved": null,
+                "dateObserved": null,
+                "datingCriteriaObserved": null,
+                "provenanceOtherLocations": null,
+                "geographicCoordinatesOther": {
+                    "latitudeOther": null,
+                    "longitudeOther": null
+                },
+                "geonamesLinkOtherLocations": null,
+                "dateOtherLocations": null,
+                "datingCriteriaOtherLocations": null,
+                "currentLocation": null,
+                "geographicCoordinatesCurrent": {
+                    "latitudeCurrent": null,
+                    "longitudeCurrent": null
+                },
+                "geonamesLinkCurrent": null,
+                "pleiadesLinkCurrent": null,
+                "desc": [
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "укрепления"
+                        }
+                    },
+                    {
+                        "@type": "category",
+                        "list": {
+                            "@type": "селища",
+                            "item": "град"
+                        }
+                    }
+                ],
+                "informationDates": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "authorPublication": "Adam Neale",
+                "ageContemporary": "Късна античност",
+                "originalLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "publicationLanguage": {
+                    "@xml:lang": "eng",
+                    "#text": "Английски"
+                },
+                "sourceInformation": "Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 264.",
+                "annotation": "Адам Нийл пътува от Истанбул до Варна по море и след това по суша до Букорещ",
+                "keywords": "Варна, крепостни стени, кули",
+                "sourceContent": "The high ruins of some quadrangular towers, announced at some distance the importance of the ancient city of Odessus, celebrated in history as the earliest sea-port of the Milesians, on the Euxine, and in modern times, for the defeat and death of Ladislaus, king of Hungary, whose army was totally destroyed in the adjoining valley, by the Turkish Emperor Amurath the First.",
+                "copyrightStoragePlace": null,
+                "viaf": "https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832",
+                "iiif": null
+            }
+        }
+    }
+]
