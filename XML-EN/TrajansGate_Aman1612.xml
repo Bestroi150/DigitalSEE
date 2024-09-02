@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Old gate</nameSource>
+    <nameContemporary>Trajans Gate </nameContemporary>
+    <description>Hans Jacob Aman only mentions an old gate </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html </geonamesLink>
+    <pleiadesLink/>
+    <date>1612</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>high</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="linear">
+            <item>gate</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="deu">deu</originalLanguage>
+    <publicationLanguage xml:lang="deu">deu</publicationLanguage>
+    <sourceInformation>Reiß In das Gelobte Land : Von Wien auß Oesterreich/ durch Ungariam/ Serviam/ Bulgariam und Thraciam auff Constantinopel: Ferner Durch Natoliam/ Cappadociam/ Ciliciam/ Syriam und Judaeam/ auff Jerusalem: Von dannen Durch die Wüste und Aegypten gehn Alexandriam/ folgends uber dz Mitlendische Meer in Siciliam/ und durch Italiam auff Zürich in die Eydgnoschafft ; In dreyen Theylen/ sampt deren Landen und Stetten gelegenhetien/ Einwohneren/ Policeyen/ Sitten und Gebreuchen ... kurtz/ doch eigentlich beschriben / Durch Johann Jacob Amman. 1618. P. 20</sourceInformation>
+    <annotation/>
+    <keywords>Gate of Trajan, Arch, Fortification </keywords>
+    <sourceContent/>
+    <copyrightStoragePlace/>
+    <viaf/>
+    <iiif/>
+</siteObject>

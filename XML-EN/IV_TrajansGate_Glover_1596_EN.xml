@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>No name</nameSource>
+    <nameContemporary>Trajan's Gate</nameContemporary>
+    <description>Thomas Glover describes remains of a fortress, fortification walls and the gate </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.3561</latitude>
+        <longitude>23.9183</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/maps/google_42.3561_23.9183.html</geonamesLink>
+    <pleiadesLink/>
+    <date>20.07.1596</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>high</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="fortifications">
+            <item>fortress</item>
+        </list>
+    </desc>
+    <desc type="category">
+        <list type="linear">
+            <item>stone_wall</item>
+            <item>gate</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Thomas Glover </authorPublication>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="eng">eng</originalLanguage>
+    <publicationLanguage xml:lang="eng">eng</publicationLanguage>
+    <sourceInformation>Purchas, S. The journey of Edward Barton Esquire, her Majesties Ambassadour with the Grand Signior, otherwise called the Great Turke, in Constantinople, Sultan Mahumet Chan. Written by Sir Thomas Glover, then Secretarie to the Ambassadour, and since employed in that Honourable Function by his Majestie, to Sultan Achmet. Two Letters are also inserted, written from Agria, by the said Ambassador Barton. In: Hakluytus Posthumus or, Purchas His Pilgrimes: Contayning a History of the World in Sea Voyages and Lande Travells by Englishmen and Others. Cambridge Library Collection - Maritime Exploration. Cambridge, 2014, p. 306.  </sourceInformation>
+    <annotation>Thomas Glover describes the ravel of the English ambassador Edward Barton Esquire, who accompanied sultan Mehmed III in his campaign in Hungary  </annotation>
+    <keywords>Gate of Trajan, Arch, Fortification</keywords>
+    <sourceContent>At the mouth or rather the entrance on the North-side, it is fortified with a mightie great wall from Mountayne to Mountayne, and a strong Castle in the midst, with a great Gate to passe thorow, there is yet to be seene part of the wals, or rather fragments: the wals adjoyning to the Gate are marvellous loose, and shake, readie to fal.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf/>
+    <iiif/>
+</siteObject>

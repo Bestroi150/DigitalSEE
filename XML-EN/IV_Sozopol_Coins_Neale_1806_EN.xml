@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Sizeboli, ancient Apollonia </nameSource>
+    <nameContemporary>Sozopol </nameContemporary>
+    <description>Adam Neale bought some ancient coins in Sozopol. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>42.42455</latitude>
+        <longitude>27.69512</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/726963/sozopol.html</geonamesLink>
+    <pleiadesLink>https://pleiades.stoa.org/places/216706/apollonia-pontica/?searchterm=Apollonia%20Pontica*</pleiadesLink>
+    <date>1806</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>medium</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="other">
+            <item>coins</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Adam Neale </authorPublication>
+    <ageContemporary>iron_age</ageContemporary>
+    <originalLanguage xml:lang="eng">eng</originalLanguage>
+    <publicationLanguage xml:lang="eng">eng</publicationLanguage>
+    <sourceInformation>Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 262.</sourceInformation>
+    <annotation>Adam Neale traveled from Istanbul to Varna and Bucharest. </annotation>
+    <keywords>Sozopol, Apollonia, ancient coins </keywords>
+    <sourceContent>In the afternoon we reached the village of Sizeboli, the ancient Apollonia, where we procured some fried eggs, bread, and Haemean honey, for a few aspers. A Greek produced for sale, ancient coins in a leathern bag, from which we selected a few of Istropolis, Apollonia, and Byzantium. Those of Istropolis have been before mentioned. That of Apollonia is of brass, and represents three women with joined hands dancing around a flaming cauldron, performing the Circean orgies of Hecate the infernal Diana, the Diva triformis.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832</viaf>
+    <iiif/>
+</siteObject>

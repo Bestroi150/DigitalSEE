@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Ivan Valchev</author>
+    <nameSource>Varna, ancient Odessus</nameSource>
+    <nameContemporary>Varna </nameContemporary>
+    <description>Adam Neale mentions ruins of some quadrangular towers </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>43.19968</latitude>
+        <longitude>27.91836</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/726050/varna.html</geonamesLink>
+    <pleiadesLink>https://pleiades.stoa.org/places/216904</pleiadesLink>
+    <date>1806</date>
+    <datingCriteria>internal-date</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>medium</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="fortifications"/>
+    </desc>
+    <desc type="category">
+        <list type="settlements">
+            <item>town</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>Adam Neale</authorPublication>
+    <ageContemporary>late_antiquity</ageContemporary>
+    <originalLanguage xml:lang="eng">eng</originalLanguage>
+    <publicationLanguage xml:lang="eng">eng</publicationLanguage>
+    <sourceInformation>Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 264.  </sourceInformation>
+    <annotation>Adam Neale traveled from Istanbul to Varna and then to Bucharest. </annotation>
+    <keywords>Varna, fortifications, towers </keywords>
+    <sourceContent>The high ruins of some quadrangular towers, announced at some distance the importance of the ancient city of Odessus, celebrated in history as the earliest sea-port of the Milesians, on the Euxine, and in modern times, for the defeat and death of Ladislaus, king of Hungary, whose army was totally destroyed in the adjoining valley, by the Turkish Emperor Amurath the First.</sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832</viaf>
+    <iiif/>
+</siteObject>
