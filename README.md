@@ -9,7 +9,8 @@ Balkan History – a sphere to which our group belongs.</li>
 
 <li>The repository contains datasets made from different historical data such as <i>engravings, maps, travelogos, diplomatic reports, newspapers, journals, and archival materials</i>. from the <b>18th</b> and <b>19th</b> centuries, 
 available in custom <b>XML</b> and <b>JSON</b> files.</li>
-
+<br>
+<p></p>
 
 <p><b>RESEARCH UNIVERSITY</b>: University of Sofia</p>
 <p><b>Research group name</b>: Digital Humanities. ICT Applications for History and Language</p>
