@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<siteObject>
+    <author>Иван Вълчев</author>
+    <nameSource>Belkofsa</nameSource>
+    <nameContemporary>Berkovitsa</nameContemporary>
+    <description>John Galt mentions a small ancient fortification. </description>
+    <provenanceOrigin/>
+    <geographicCoordinates>
+        <latitude>43.24181</latitude>
+        <longitude>23.12585</longitude>
+    </geographicCoordinates>
+    <geonamesLink>https://www.geonames.org/733264/berkovitsa.html</geonamesLink>
+    <pleiadesLink/>
+    <date>1811</date>
+    <datingCriteria>датировка, изрично поставена в самия документ</datingCriteria>
+    <localizationSource/>
+    <localizationCertainity>висока</localizationCertainity>
+    <age/>
+    <provenanceObservedIn/>
+    <geographicCoordinatesObserved>
+        <latitudeObserved/>
+        <longitudeObserved/>
+    </geographicCoordinatesObserved>
+    <geonamesLinkObserved/>
+    <pleiadesLinkObserved/>
+    <dateObserved/>
+    <datingCriteriaObserved/>
+    <provenanceOtherLocations/>
+    <geographicCoordinatesOther>
+        <latitudeOther/>
+        <longitudeOther/>
+    </geographicCoordinatesOther>
+    <geonamesLinkOtherLocations/>
+    <dateOtherLocations/>
+    <datingCriteriaOtherLocations/>
+    <currentLocation/>
+    <geographicCoordinatesCurrent>
+        <latitudeCurrent/>
+        <longitudeCurrent/>
+    </geographicCoordinatesCurrent>
+    <geonamesLinkCurrent/>
+    <pleiadesLinkCurrent/>
+    <desc type="category">
+        <list type="укрепления">
+            <item>каменна крепост</item>
+        </list>
+    </desc>
+    <informationDates>
+        <startDate/>
+        <endDate/>
+    </informationDates>
+    <authorPublication>John Galt</authorPublication>
+    <ageContemporary>Късна античност</ageContemporary>
+    <originalLanguage xml:lang="eng">Английски</originalLanguage>
+    <publicationLanguage xml:lang="eng">Английски</publicationLanguage>
+    <sourceInformation>Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 345-346.</sourceInformation>
+    <annotation>John Galt traveled from Istanbul to Vidin and back to Istanbul.</annotation>
+    <keywords>Berkovitsa, каменна крепост </keywords>
+    <sourceContent>On a neighbouring hill, overlooking the town, is a small ancient fortification, which has also lately strengthened by new works, and a garrison of several hundred men. </sourceContent>
+    <copyrightStoragePlace/>
+    <viaf>https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839</viaf>
+    <iiif/>
+</siteObject>
