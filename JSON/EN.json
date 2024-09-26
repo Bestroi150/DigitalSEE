@@ -6,7 +6,7 @@
                 "author": "Ivan Valchev",
                 "nameSource": "Philippopel",
                 "nameContemporary": "Пловдив",
-                "description": "Герхард Корнелиус фон Дриш наблюдава Пловдив от разстояние поради епидемия в града. Той описва топографията на селището и следите от крепостни стени, които е успял да види.",
+                "description": "Gerhard Cornelius von Driesch observes the city of Plovdiv from a distance, because of the epidemy in the city. He describes the topography of the settlement and the remnants of the castle walls, which he saw.",
                 "provenanceOrigin": null,
                 "geographicCoordinates": {
                     "latitude": "42.15151",
@@ -75,7 +75,7 @@
                 },
                 "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 116.",
                 "annotation": null,
-                "keywords": "Пловдив, Филипопол, топография, крепостни стени",
+                "keywords": "Plovdiv, Philipopolis, topography, fortifications",
                 "sourceContent": "daß die Stadt zwar auf zwey Spitzen stehet, welche aber nur einen einigen Berg ausmachen, da der andere vor Zeiten wol auch mit dergleichen Ringmauern umgehen gewesen, die aber jetzt mehrentheils zerfallen sind.",
                 "copyrightStoragePlace": null,
                 "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
@@ -90,7 +90,7 @@
                 "author": "Ivan Valchev",
                 "nameSource": "Sophia",
                 "nameContemporary": "Sofia",
-                "description": "Герхард Корнелиус Дриш споменава останки от замък (Schloß) северно от града, от лявата страна на града, когато се идва от Ниш.",
+                "description": "Gerhard Cornelius Driesch mentions remains of a castle (Schloß) north of the city, from the left side of the city, when coming from Niš.",
                 "provenanceOrigin": null,
                 "geographicCoordinates": {
                     "latitude": "42.70725",
@@ -150,7 +150,7 @@
                 },
                 "sourceInformation": "Driesch, Gerhard Cornelius von den. Historische Nachricht von der Röm. Kayserl. Groß-Botschafft nach Constantinopel: welche auf allergnädigsten Befehl Sr. Röm. Kayserlichen und Catholischen Majestät Carl des Sechsten, nach glücklich vollendeten zweyjährigen Krieg, Der Hoch- und Wolgebohrne des H.R. ReichsGraf Damian Hugo von Virmondt, rühmlichst verrichtet. Worinnen ganz besondere Nachrichten von der Türken Policey, Religion, Griechischen Antiquitäten und andern merkwürdigen anderswo vergeblich gesuchten Sachen, zu finden; dabey vieles mit den accuratesten Kupfern erläutert ist. Nürnberg: zu finden bey Peter Conrad Monath 1723. p. 89.",
                 "annotation": null,
-                "keywords": "София, крепостни стени, късноантично укрепление",
+                "keywords": "Sofia, stone wall, fortification from Late Antiquity",
                 "sourceContent": "worzu sie noch setzen, daß der  Bruder nicht weit von hier ein Schloß gehabt, wovon sie einem noch zur linken Hand, wann man von Nissa kommt, am Ende der Stadt die Mauern weisen.",
                 "copyrightStoragePlace": null,
                 "viaf": "https://viaf.org/viaf/194161584/#Driesch,_Gerhard_Cornelius_%CB%9Cvon_den%C5%93_1688-1758",
@@ -1210,6 +1210,7 @@
                     "startDate": null,
                     "endDate": null
                 },
+                "authorPublication":"Hiltebrandt",
                 "ageContemporary": "Late Antiquity",
                 "originalLanguage": {
                     "@xml:lang": "deu",
@@ -1434,6 +1435,7 @@
                     "startDate": null,
                     "endDate": null
                 },
+                "authorPublication":"Tafferner",
                 "ageContemporary": "Late Antiquity",
                 "originalLanguage": {
                     "@xml:lang": "lat",
