@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="en">IV_StSofia_Galt_1811_EN</title>
+          <author>
+            <persName>Ivan Valchev</persName>
+          </author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>DigitalSEE</publisher>
+          <date>2024-11-07</date>
+          <availability>
+            <p>The copyright statement for the source text can be fooud at <ref>None</ref> IIIF can be found here: None, if available</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <country>Bulgaria</country>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <p>
+                      <seg/>
+                    </p>
+                  </support>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+            <history>
+              <origin> <!-- произход не според текста -->
+                <origPlace>
+                  <seg/>
+                </origPlace>
+                <origDate cert="high">1811</origDate>
+              </origin>
+              <!--Observed-->
+              <provenance type="observed" subtype="pleiades">
+                <date evidence="None">None</date>
+                <ref cert="high">None</ref>
+                <placeName>None</placeName>
+            </provenance>
+            <provenance type="observed" subtype="geonames">
+                <ref>None</ref>
+            </provenance>
+              <!--Found-->
+              <provenance type="found" subtype="geonames">
+                <date evidence="None">None</date>
+                <ref>None</ref>
+                <placeName>None</placeName>
+            </provenance>
+              <!--Current-->
+              <provenance type="found" subtype="geonames">
+                <date evidence="None">None</date>
+                <ref>None</ref>
+                <placeName>None</placeName>
+            </provenance>
+          </history>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <classDecl>
+          <taxonomy>
+            <category xml:id="periods-contemporary">
+              <catDesc>
+               late_antiquity
+              </catDesc>
+            </category>
+            <category xml:id="periods-source">
+              <catDesc>
+                None
+              </catDesc>
+            </category>
+            <category xml:id="object-type">
+              <catDesc>
+                {'religious': ['church', 'mosque']}
+              </catDesc>
+            </category>
+           </taxonomy>
+        </classDecl>
+      </encodingDesc>
+      <profileDesc>
+        <textClass>
+        <keywords>
+          <list>
+            <item>Sofia, St Sofia basilica, church</item>
+          </list>
+        </keywords>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2024-03-01" who="Ivan Valchev">encoder Ivan Valchev</change>
+        <change when="2024-11-07" who="KS">Kristiyan Simeonov, encoded XML data</change>
+        <change when="2024-11-07" who="DI">Dimitar Iliev, provided full schema revision</change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="textpart" xml:lang="eng"> <ab></ab></div> <!-- xml:lang тук е за оригиналния език -->
+        <div type="edition" xml:lang="eng">
+         <p>
+            <seg xml:lang="eng">The only ancient building in the town, is the church of Saint Sophia, a considerable fabric, long since converted into a mosch. It was used as the powder magazine. </seg>
+          </p>
+        </div>
+        <div type="commentary" subtype="general">
+         <ab> The text is written between <date type="initial">None</date> and <date type="final">None</date>.
+           The name of the monument is <name type="source">Church of Saint Sophia </name> or <name type="contemporary">St Sofia Basilica</name>. According to the text, it is It is located <location>
+            <geo>42.69657; 23.33126</geo> <geo>None</geo>
+         </location>. Now it is located here: <location type="original"><geo>None;None</geo> <geo>None</geo></location>, in <name type="current" xml:lang="eng">None</name>.
+         The internal date in the document is <date>1811</date>.
+        We have evidence that the object was obseved in <location type="subsequent1"><geo>None; None</geo> </location>.
+        The object has been seen in <location type="subsequent2"><geo>None; None</geo> </location>  </ab>
+        </div>
+         <div type="commentary" subtype="additional">
+            <p>
+              <seg>John Galt traveled from Istanbul to Vidin and back to Istanbul.</seg>
+            </p>
+          </div>
+          <div type="bibliography">
+            <bibl>
+                <author>
+                  <persName>John Galt</persName>
+                </author>
+                <seg>Galt, John. Voyages and travels in the years 1809, 1810 and 1811, containing observations on Gibraltar, Sardinia, Sicily, Malta, Scrigo and Turkey. London, 1812, p. 340.</seg>
+          <ref target="https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839">https://viaf.org/viaf/61562976/#Galt,_John,_1779-1839</ref>
+            </bibl>
+          </div>
+      </body>
+    </text>
+</TEI>
+    

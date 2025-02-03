@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title xml:lang="en">IV_Varna_Neale_1806_EN</title>
+          <author>
+            <persName>Ivan Valchev</persName>
+          </author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>DigitalSEE</publisher>
+          <date>2024-11-07</date>
+          <availability>
+            <p>The copyright statement for the source text can be fooud at <ref>None</ref> IIIF can be found here: None, if available</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <country>Bulgaria</country>
+            </msIdentifier>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <p>
+                      <seg/>
+                    </p>
+                  </support>
+                </supportDesc>
+              </objectDesc>
+            </physDesc>
+            <history>
+              <origin> <!-- произход не според текста -->
+                <origPlace>
+                  <seg/>
+                </origPlace>
+                <origDate cert="medium">1806</origDate>
+              </origin>
+              <!--Observed-->
+              <provenance type="observed" subtype="pleiades">
+                <date evidence="None">None</date>
+                <ref cert="high">None</ref>
+                <placeName>None</placeName>
+            </provenance>
+            <provenance type="observed" subtype="geonames">
+                <ref>None</ref>
+            </provenance>
+              <!--Found-->
+              <provenance type="found" subtype="geonames">
+                <date evidence="None">None</date>
+                <ref>None</ref>
+                <placeName>None</placeName>
+            </provenance>
+              <!--Current-->
+              <provenance type="found" subtype="geonames">
+                <date evidence="None">None</date>
+                <ref>None</ref>
+                <placeName>None</placeName>
+            </provenance>
+          </history>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <classDecl>
+          <taxonomy>
+            <category xml:id="periods-contemporary">
+              <catDesc>
+               late_antiquity
+              </catDesc>
+            </category>
+            <category xml:id="periods-source">
+              <catDesc>
+                None
+              </catDesc>
+            </category>
+            <category xml:id="object-type">
+              <catDesc>
+                {'fortifications': [], 'settlements': ['town']}
+              </catDesc>
+            </category>
+           </taxonomy>
+        </classDecl>
+      </encodingDesc>
+      <profileDesc>
+        <textClass>
+        <keywords>
+          <list>
+            <item>Varna, Fortifications, towers </item>
+          </list>
+        </keywords>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2024-03-01" who="Ivan Valchev">encoder Ivan Valchev</change>
+        <change when="2024-11-07" who="KS">Kristiyan Simeonov, encoded XML data</change>
+        <change when="2024-11-07" who="DI">Dimitar Iliev, provided full schema revision</change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="textpart" xml:lang="eng"> <ab></ab></div> 
+        <div type="edition" xml:lang="eng">
+         <p>
+            <seg xml:lang="eng">The high ruins of some quadrangular towers, announced at some distance the importance of the ancient city of Odessus, celebrated in history as the earliest sea-port of the Milesians, on the Euxine, and in modern times, for the defeat and death of Ladislaus, king of Hungary, whose army was totally destroyed in the adjoining valley, by the Turkish Emperor Amurath the First.</seg>
+          </p>
+        </div>
+        <div type="commentary" subtype="general">
+         <ab> The text is written between <date type="initial">None</date> and <date type="final">None</date>.
+           The name of the monument is <name type="source">Varna, ancient Odessus</name> or <name type="contemporary">Varna </name>. According to the text, it is It is located <location>
+            <geo>43.19968; 27.91836</geo> <geo>https://www.geonames.org/726050/varna.html</geo>
+         </location>. Now it is located here: <location type="original"><geo>None;None</geo> <geo>None</geo></location>, in <name type="current" xml:lang="eng">None</name>.
+         The internal date in the document is <date>1806</date>.
+        We have evidence that the object was obseved in <location type="subsequent1"><geo>None; None</geo> </location>.
+        The object has been seen in <location type="subsequent2"><geo>None; None</geo> </location>  </ab>
+        </div>
+         <div type="commentary" subtype="additional">
+            <p>
+              <seg>Adam Neale traveled from Istanbul to Varna and then to Bucharest. </seg>
+            </p>
+          </div>
+          <div type="bibliography">
+            <bibl>
+                <author>
+                  <persName>Adam Neale</persName>
+                </author>
+                <seg>Neale, Adam. Travels through some parts of Germany, Poland, Moldavia, and Turkey. London, 1818, p. 264.  </seg>
+          <ref target="https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832">https://viaf.org/viaf/93395030/#Neale,_Adam,_-1832</ref>
+            </bibl>
+          </div>
+      </body>
+    </text>
+</TEI>
+    
